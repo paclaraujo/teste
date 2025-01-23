@@ -1,0 +1,6 @@
+git add . - pegar tudo disponivel e add na caixinha
+git add paloma/teste.txt
+
+git commit -m 'docs: create git commands doc'
+
+git push
